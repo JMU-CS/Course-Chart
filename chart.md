@@ -79,7 +79,7 @@ flowchart TB
         CS159 --> CS240
         CS159 --> CS345
         CS159 --> CS261
-        %% CS227 --> CS327
+        CS227 --> CS327
         CS227 --> CS240
         CS227 --> CS261
         %%thrid
